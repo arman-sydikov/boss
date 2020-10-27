@@ -1,20 +1,32 @@
 ## Java 高阶
 -------------------
 
-#### Q1. 欲构造 ArrayList 类的一个实例，此类继承了 List 接口，下列哪个方法是正确的？
-- [x] `List myList = new ArrayList()`
-- [ ] `ArrayList myList = new Object()`
-- [ ] `ArrayList myList = new List()`
-- [ ] `List myList = new List()`
+#### 无锁化编程有哪些常见方法？
+- [ ] `全都正确`
+- [ ] `只有一个生产者和一个消费者，那么就可以做到免锁访问环形缓冲区（Ring Buffer）`
+- [ ] `CAS (Compare-and-Swap)，如无锁栈，无锁队列等待`
+- [ ] `RCU (Read-Copy-Update)，新旧副本切换机制，对于旧副本可以采用延迟释放的做法`
 
-#### Q2. 在一个 Java 源文件中，import、package、class 的出现顺序是？
-- [ ] `class import package`
-- [ ] `import package class`
-- [x] `package import class`
-- [ ] `import class package`
+#### 一个线程在任何时刻都处于某种线程状态（thread state），例如运行状态、阻塞状态、就绪状态等。一个线程可以由选项中的哪种线程状态直接到达运行状态？
+- [ ] `阻塞状态（对象 lock 池内）`
+- [ ] `死亡状态`
+- [ ] `就绪状态`
+- [ ] `阻塞状态（对象 wait 池内）`
 
-#### Q3. 设 x 为 float 型变量，y 为 double 型变量，a 为 int 型变量，b 为 long 型变量，c 为 char 型变量，则表达式 x+y*a/x+b/y+c 的值为（）类型？
-- [ ] `long`
-- [ ] `char`
-- [x] `double`
-- [ ] `int`
+#### 随机文件访问是由（）类实现的？
+- [ ] `RandomAccessFile`
+- [ ] `File`
+- [ ] `BufferedWriter`
+- [ ] `BufferedInputStream`
+
+#### 在 Java 多线程中，请用下面哪种方法不会使线程进入阻塞状态？
+- [ ] `sleep()`
+- [ ] `Suspend()`
+- [ ] `yield()`
+- [ ] `wait()`
+
+#### 哪个选项能够构造一个 BufferedInputStream 流？
+- [ ] `new BufferedInputStream(new File("in.txt"));`
+- [ ] `new BufferedInputStream("in.txt");`
+- [ ] `new BufferedInputStream(new FileInputStream("in.txt"));`
+- [ ] `new BufferedInputStream(new VIHter("in.txt"));`
