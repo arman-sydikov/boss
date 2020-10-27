@@ -13,4 +13,4 @@
 
 ### 截图
 
-![Screenshot](https://github.com/video-vocabulary/boss/blob/master/img/screenshot.png?raw=true)
+![Screenshot](https://github.com/video-vocabulary/boss/blob/main/img/screenshot.png?raw=true)
