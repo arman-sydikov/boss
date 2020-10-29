@@ -19,4 +19,4 @@
 
 ### 截图
 
-![Screenshot](https://github.com/video-vocabulary/boss/blob/main/img/screenshot.png?raw=true)
+![Screenshot](https://10.idqqimg.com/qqke_course_info/ajNVdqHZLLBmzP11BbnTE5aBJCXtGPovdDw8OTzwwconmg72libuOuoaLs8ZsB1ahhbGQJSR7aDk/)
