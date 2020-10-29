@@ -8,7 +8,7 @@
 - [ ] `隐藏域 setParameter 方法`
 
 #### 以下代码能否编译通过，假如能编译通过，运行时得到什么输出结果（）？
-```
+```jsp
 <% ("count", new Integer(0)); Integer count = ("count"); %> <%=count %>
 ```
 - [ ] `编译不通过`
@@ -83,7 +83,7 @@
 - [ ] `%@ taglib uri="" prefix=""%`
 
 #### JSP 中有如下代码：
-```
+```jsp
 <%
 Cookie c = new Cookie("name", "admin"); c.setMaxAge(10000);
 response.addCookie(c);
@@ -96,7 +96,7 @@ response.addCookie(c);
 - [ ] `${cookie.name}`
 
 #### 自定义标签中，HelloTag 继承自 TagSupport 类，其中有如下代码：
-```
+```java
 ("HELLO");
 ```
 该 out 对象声明方法为？
@@ -106,7 +106,7 @@ response.addCookie(c);
 - [ ] `JSPWriter out = pageContext.getWriter()`
 
 #### 某 JSP 中有如下代码：
-```
+```jsp
 <%
 pageContext.setAttribute("a", "page");
 request.setAttribute("a", "request");

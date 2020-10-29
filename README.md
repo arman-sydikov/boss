@@ -4,7 +4,7 @@
 
 ### 目录
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技能名称&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |  技能内容 |
+| 技能名称   |  技能内容 |
 | --------- |  ------ |
 | [Java 基础](https://github.com/video-vocabulary/boss/blob/master/java/java-jichu.md) |  掌握 Java 基本语法（常量与变量、数据类型、运算符、字符串、表达式与语句、流程控制等）、面向对象、核心类等内容的概念及用法。 |
 | [Java 进阶](https://github.com/video-vocabulary/boss/blob/master/java/java-jinjie.md) |  掌握 JVM 的内存模型、GC、JVM 调优、类加载机制等内容。 |
