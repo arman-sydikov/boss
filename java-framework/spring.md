@@ -56,7 +56,7 @@
 - [ ] `配置文件`
 
 #### 看下面的代码，说法正确的是（）？
-```
+```xml
 <bean id="before" class="org.springframework.aop.framework.ProxyFactoryBean">
     <property name="proxyInterfaces"></property>
     <value>com.xfaccp.before.BeforeInterface</value>
@@ -112,7 +112,7 @@
 - [ ] `Spring 各模块之间是紧密关系的，相互依赖的`
 
 #### 看下面的代码，说法正确的是（）？
-```
+```xml
 <bean id="beforeAdvisor" class="org.Springframework.aop.support.RegexpMethodPointcutAdvisor">
     <property name="advice">
         <ref local="beforeImpl" />

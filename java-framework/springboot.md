@@ -80,7 +80,7 @@
 - [ ] `application.xml`
 
 #### 以下依赖，导入的是什么包？
-```
+```xml
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
