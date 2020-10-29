@@ -4,12 +4,12 @@
 
 ### 目录
 
-| 技能名称   |  技能内容 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技能名称&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |  技能内容 |
 | --------- |  ------ |
 | [Java 基础](https://github.com/video-vocabulary/boss/blob/master/java/java-jichu.md) |  掌握 Java 基本语法（常量与变量、数据类型、运算符、字符串、表达式与语句、流程控制等）、面向对象、核心类等内容的概念及用法。 |
 | [Java 进阶](https://github.com/video-vocabulary/boss/blob/master/java/java-jinjie.md) |  掌握 JVM 的内存模型、GC、JVM 调优、类加载机制等内容。 |
 | [Java 高阶](https://github.com/video-vocabulary/boss/blob/master/java/java-gaojie.md) |  掌握 I/O 流、多线程、同步锁、Java 新特性等内容。 |
-| [Java&#160;Web&#160;基础](https://github.com/video-vocabulary/boss/blob/master/java-web/java-web-jichu.md) | 掌握 JS 的基本语法，掌握 JSP、Servlet、Cookie、Session等内容 |
+| [Java Web 基础](https://github.com/video-vocabulary/boss/blob/master/java-web/java-web-jichu.md) | 掌握 JS 的基本语法，掌握 JSP、Servlet、Cookie、Session等内容 |
 | [Java Web 进阶](https://github.com/video-vocabulary/boss/blob/master/java-web/java-web-jinjie.md) | 掌握 JS 的基本语法，掌握 JSP、Servlet、Cookie、Session等内容 |
 | [Java Web 高阶](https://github.com/video-vocabulary/boss/blob/master/java-web/java-web-gaojie.md) | 掌握 JS 的基本语法，掌握 JSP、Servlet、Cookie、Session等内容 |
 | [Spring](https://github.com/video-vocabulary/boss/blob/master/java-framework/spring.md) | 掌握 IOC、AOP、Bean、事务管理等概念及用法 |
