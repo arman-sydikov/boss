@@ -68,7 +68,7 @@
 - [ ] `直接嵌入了 Tomcat 等服务器，无须部署 war 文件`
 
 #### 由于 SpringCloud 和 SpringBoot 都发布了多个版本，选择这些版本时需要考虑兼容性。SpringCloud 的 Greenwich 版本与 SpringBoot 的哪个版本相匹配？
-- [ ] `SpringBoot 2.1`
+- [x] `SpringBoot 2.1`
 - [ ] `SpringBoot 1.5`
 - [ ] `SpringBoot 1.4`
 - [ ] `SpringBoot 2.0`

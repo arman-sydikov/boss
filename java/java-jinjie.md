@@ -5,12 +5,12 @@
 - [ ] `堆区`
 - [ ] `栈区`
 - [ ] `方法区`
-- [ ] `计算器区`
+- [x] `计算器区`
 
 #### 下列哪个是堆空间不足抛出的异常？
 - [ ] `java.lang.NullPointerException`
 - [ ] `java.lang.StackOverFlowError`
-- [ ] `java.lang.OutOfMemoryError`
+- [x] `java.lang.OutOfMemoryError`
 - [ ] `java.lang.ArithmeticException`
 
 #### Java 以 JVM 为基础，最下层是？
